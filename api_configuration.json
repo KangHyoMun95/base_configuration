@@ -1,19 +1,19 @@
 {
   "rb_portal": {
     "protocol": "http",
-    "api_url": "107.191.40.84",
+    "ip_address": "107.191.40.84",
     "port": "3000",
     "prefix": "api"
   },
   "my_rewarding": {
     "protocol": "http",
-    "api_url": "107.191.40.84",
+    "ip_address": "107.191.40.84",
     "port": "3001",
     "prefix": "api"
   },
   "rb_admin": {
     "protocol": "http",
-    "api_url": "107.191.40.84",
+    "ip_address": "107.191.40.84",
     "port": "3000",
     "prefix": "api"
   }
